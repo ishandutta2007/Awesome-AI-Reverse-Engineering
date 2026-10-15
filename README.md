@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-blue.svg?style=flat-square)](#)
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Reverse-Engineering?style=flat-square)](https://github.com/ishandutta2007/Awesome-AI-Reverse-Engineering/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Reverse-Engineering?style=flat-square)](https://github.com/ishandutta2007/Awesome-AI-Reverse-Engineering/stargazers)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **Curated Catalog & Guide to AI Reverse Engineering, Agent-Assisted Binary Analysis, Decompilation & Software Reconstruction 🛡️🤖**
@@ -66,67 +66,67 @@ The commercial market remains **moderately concentrated** at the top tier—domi
 
 ## 🔓 Open-Source GitHub Projects (Ranked by Stars)
 
-*All repositories are sorted in descending order of popularity based on GitHub stars.*
+*All repositories are sorted in descending order of popularity based on GitHub_Stars.*
 
 1. **[REA (Reverse Engineer Anything)](https://github.com/morluto/rea)** [![Stars](https://img.shields.io/github/stars/morluto/rea?style=social&color=white)](https://github.com/morluto/rea/stargazers)  
-   **The leading open-source AI reverse engineering agent platform** (MIT). Over 260,000+ GitHub stars. Acts as an MCP server connecting AI coding agents to Ghidra, Hopper, IDA, and native analysis engines. Analyzes native binaries (Mach-O, ELF, PE), JavaScript/Electron apps, .NET assemblies, Android APKs, firmware, and network captures, feeding structured call graphs and decompiled code into Claude Code, Codex, Cursor, and Gemini CLI.
+   **The leading open-source AI reverse engineering agent platform** (MIT). Over 260,000+ GitHub_Stars. Acts as an MCP server connecting AI coding agents to Ghidra, Hopper, IDA, and native analysis engines. Analyzes native binaries (Mach-O, ELF, PE), JavaScript/Electron apps, .NET assemblies, Android APKs, firmware, and network captures, feeding structured call graphs and decompiled code into Claude Code, Codex, Cursor, and Gemini CLI.
 
 2. **[Ghidra](https://github.com/NationalSecurityAgency/ghidra)** [![Stars](https://img.shields.io/github/stars/NationalSecurityAgency/ghidra?style=social&color=white)](https://github.com/NationalSecurityAgency/ghidra/stargazers)  
-   **The NSA's flagship software reverse engineering suite** (Apache-2.0). 88,000+ GitHub stars. Comprehensive decompiler, disassembler, debugger, and scripting framework across x86, ARM, MIPS, PowerPC, and RISC-V architectures. Serves as the backbone decompiler for most modern open-source AI agent integrations.
+   **The NSA's flagship software reverse engineering suite** (Apache-2.0). 88,000+ GitHub_Stars. Comprehensive decompiler, disassembler, debugger, and scripting framework across x86, ARM, MIPS, PowerPC, and RISC-V architectures. Serves as the backbone decompiler for most modern open-source AI agent integrations.
 
 3. **[dnSpy](https://github.com/dnSpy/dnSpy)** [![Stars](https://img.shields.io/github/stars/dnSpy/dnSpy?style=social&color=white)](https://github.com/dnSpy/dnSpy/stargazers)  
-   **Legendary .NET debugger and assembly editor** (GPL-3.0). 29,000+ GitHub stars. Decompiles .NET assemblies to readable C#/IL, with in-place IL editing and robust step-debugging even without original source code or symbol files.
+   **Legendary .NET debugger and assembly editor** (GPL-3.0). 29,000+ GitHub_Stars. Decompiles .NET assemblies to readable C#/IL, with in-place IL editing and robust step-debugging even without original source code or symbol files.
 
 4. **[ILSpy](https://github.com/icsharpcode/ILSpy)** [![Stars](https://img.shields.io/github/stars/icsharpcode/ILSpy?style=social&color=white)](https://github.com/icsharpcode/ILSpy/stargazers)  
-   **The open-source .NET assembly browser and decompiler** (MIT). 26,000+ GitHub stars. Cross-platform decompilation engine with syntax highlighting, PDB generation, BAML-to-XAML conversion, and extensibility via C# plugins.
+   **The open-source .NET assembly browser and decompiler** (MIT). 26,000+ GitHub_Stars. Cross-platform decompilation engine with syntax highlighting, PDB generation, BAML-to-XAML conversion, and extensibility via C# plugins.
 
 5. **[Radare2](https://github.com/radareorg/radare2)** [![Stars](https://img.shields.io/github/stars/radareorg/radare2?style=social&color=white)](https://github.com/radareorg/radare2/stargazers)  
-   **Unix-centric reverse engineering framework and CLI toolset** (LGPL-3.0). 25,000+ GitHub stars. Disassembles, debugs, analyzes, and patches native binaries with high scriptability, micro-footprint, and support for dozens of architectures.
+   **Unix-centric reverse engineering framework and CLI toolset** (LGPL-3.0). 25,000+ GitHub_Stars. Disassembles, debugs, analyzes, and patches native binaries with high scriptability, micro-footprint, and support for dozens of architectures.
 
 6. **[Frida](https://github.com/frida/frida)** [![Stars](https://img.shields.io/github/stars/frida/frida?style=social&color=white)](https://github.com/frida/frida/stargazers)  
-   **Dynamic binary instrumentation toolkit for developers and reverse engineers** (wxWindows Library Licence). 22,000+ GitHub stars. Inject JavaScript snippets or custom libraries into native processes on Windows, macOS, Linux, iOS, and Android to hook APIs and inspect memory on the fly.
+   **Dynamic binary instrumentation toolkit for developers and reverse engineers** (wxWindows Library Licence). 22,000+ GitHub_Stars. Inject JavaScript snippets or custom libraries into native processes on Windows, macOS, Linux, iOS, and Android to hook APIs and inspect memory on the fly.
 
 7. **[Cutter](https://github.com/rizinorg/cutter)** [![Stars](https://img.shields.io/github/stars/rizinorg/cutter?style=social&color=white)](https://github.com/rizinorg/cutter/stargazers)  
-   **Free and user-friendly GUI reverse engineering platform** (GPL-3.0). 20,000+ GitHub stars. Powered by Rizin with native integration of the Ghidra decompiler, graphing capabilities, memory hex editing, and debugger controls.
+   **Free and user-friendly GUI reverse engineering platform** (GPL-3.0). 20,000+ GitHub_Stars. Powered by Rizin with native integration of the Ghidra decompiler, graphing capabilities, memory hex editing, and debugger controls.
 
 8. **[GhidraMCP](https://github.com/LaurieWired/GhidraMCP)** [![Stars](https://img.shields.io/github/stars/LaurieWired/GhidraMCP?style=social&color=white)](https://github.com/LaurieWired/GhidraMCP/stargazers)  
-   **The original Model Context Protocol (MCP) server for Ghidra** (Apache-2.0). 11,000+ GitHub stars. Connects LLMs directly to running Ghidra headless/GUI instances, allowing AI agents to query functions, decompile routines, inspect data types, and rename symbols programmatically.
+   **The original Model Context Protocol (MCP) server for Ghidra** (Apache-2.0). 11,000+ GitHub_Stars. Connects LLMs directly to running Ghidra headless/GUI instances, allowing AI agents to query functions, decompile routines, inspect data types, and rename symbols programmatically.
 
 9. **[YARA](https://github.com/VirusTotal/yara)** [![Stars](https://img.shields.io/github/stars/VirusTotal/yara?style=social&color=white)](https://github.com/VirusTotal/yara/stargazers)  
-   **The pattern matching swiss-knife for malware researchers** (Apache-2.0). 9,900+ GitHub stars. Provides rule-based textual and binary pattern classification, widely automated by AI reverse-engineering agents to generate signature detection rules.
+   **The pattern matching swiss-knife for malware researchers** (Apache-2.0). 9,900+ GitHub_Stars. Provides rule-based textual and binary pattern classification, widely automated by AI reverse-engineering agents to generate signature detection rules.
 
 10. **[Angr](https://github.com/angr/angr)** [![Stars](https://img.shields.io/github/stars/angr/angr?style=social&color=white)](https://github.com/angr/angr/stargazers)  
-    **Powerful binary analysis and symbolic execution platform** (BSD-2-Clause) from UC Santa Barbara. 9,100+ GitHub stars. Combines static analysis with concolic execution, vulnerability discovery, and automated exploit primitive generation.
+    **Powerful binary analysis and symbolic execution platform** (BSD-2-Clause) from UC Santa Barbara. 9,100+ GitHub_Stars. Combines static analysis with concolic execution, vulnerability discovery, and automated exploit primitive generation.
 
 11. **[Capstone](https://github.com/capstone-engine/capstone)** [![Stars](https://img.shields.io/github/stars/capstone-engine/capstone?style=social&color=white)](https://github.com/capstone-engine/capstone/stargazers)  
-    **The ultimate multi-platform, multi-architecture disassembly framework** (BSD-3-Clause). 9,100+ GitHub stars. Powers disassemblers across ARM, ARM64, MIPS, x86, PowerPC, Sparc, SystemZ, XCore, and WebAssembly.
+    **The ultimate multi-platform, multi-architecture disassembly framework** (BSD-3-Clause). 9,100+ GitHub_Stars. Powers disassemblers across ARM, ARM64, MIPS, x86, PowerPC, Sparc, SystemZ, XCore, and WebAssembly.
 
 12. **[Qiling](https://github.com/qilingframework/qiling)** [![Stars](https://img.shields.io/github/stars/qilingframework/qiling?style=social&color=white)](https://github.com/qilingframework/qiling/stargazers)  
-    **Advanced cross-platform, cross-architecture binary emulation framework** (Apache-2.0). 6,100+ GitHub stars. Emulates full OS syscalls and environments for Windows, Linux, macOS, Android, and IoT embedded firmware.
+    **Advanced cross-platform, cross-architecture binary emulation framework** (Apache-2.0). 6,100+ GitHub_Stars. Emulates full OS syscalls and environments for Windows, Linux, macOS, Android, and IoT embedded firmware.
 
 13. **[LIEF](https://github.com/lief-project/LIEF)** [![Stars](https://img.shields.io/github/stars/lief-project/LIEF?style=social&color=white)](https://github.com/lief-project/LIEF/stargazers)  
-    **Library to Instrument Executable Formats** (Apache-2.0). 5,500+ GitHub stars. Parse, modify, and inject payloads into ELF, PE, and Mach-O executables via clean C++ and Python APIs.
+    **Library to Instrument Executable Formats** (Apache-2.0). 5,500+ GitHub_Stars. Parse, modify, and inject payloads into ELF, PE, and Mach-O executables via clean C++ and Python APIs.
 
 14. **[Triton](https://github.com/JonathanSalwan/Triton)** [![Stars](https://img.shields.io/github/stars/JonathanSalwan/Triton?style=social&color=white)](https://github.com/JonathanSalwan/Triton/stargazers)  
-    **Dynamic Binary Analysis (DBA) & Concolic Execution engine** (Apache-2.0). 4,300+ GitHub stars. Features symbolic execution, taint analysis, AST representation, and constraint solving via Z3.
+    **Dynamic Binary Analysis (DBA) & Concolic Execution engine** (Apache-2.0). 4,300+ GitHub_Stars. Features symbolic execution, taint analysis, AST representation, and constraint solving via Z3.
 
 15. **[Rizin](https://github.com/rizinorg/rizin)** [![Stars](https://img.shields.io/github/stars/rizinorg/rizin?style=social&color=white)](https://github.com/rizinorg/rizin/stargazers)  
-    **Modern, modular UNIX-like reverse engineering framework** (LGPL-3.0). 3,900+ GitHub stars. High-stability fork of Radare2 serving as the core engine powering the Cutter GUI and disassembly pipelines.
+    **Modern, modular UNIX-like reverse engineering framework** (LGPL-3.0). 3,900+ GitHub_Stars. High-stability fork of Radare2 serving as the core engine powering the Cutter GUI and disassembly pipelines.
 
 16. **[rev.ng](https://github.com/revng/revng)** [![Stars](https://img.shields.io/github/stars/revng/revng?style=social&color=white)](https://github.com/revng/revng/stargazers)  
-    **Advanced static binary translator and decompiler** built on top of LLVM (GPL-2.0 / Apache-2.0). 1,750+ GitHub stars. Lifts machine code from multiple architectures to clean LLVM IR for optimization and decompilation.
+    **Advanced static binary translator and decompiler** built on top of LLVM (GPL-2.0 / Apache-2.0). 1,750+ GitHub_Stars. Lifts machine code from multiple architectures to clean LLVM IR for optimization and decompilation.
 
 17. **[iaito](https://github.com/radareorg/iaito)** [![Stars](https://img.shields.io/github/stars/radareorg/iaito?style=social&color=white)](https://github.com/radareorg/iaito/stargazers)  
-    **The official Qt graphical user interface for Radare2** (LGPL-3.0). 1,700+ GitHub stars. Clean desktop interface for disassembling, hex editing, and visual debugging with radare2.
+    **The official Qt graphical user interface for Radare2** (LGPL-3.0). 1,700+ GitHub_Stars. Clean desktop interface for disassembling, hex editing, and visual debugging with radare2.
 
 18. **[Open-ReverseLab](https://github.com/LING71671/open-reverselab)** [![Stars](https://img.shields.io/github/stars/LING71671/open-reverselab?style=social&color=white)](https://github.com/LING71671/open-reverselab/stargazers)  
-    **AI reverse-engineering agent platform and MCP server** (MIT). 1,200+ GitHub stars. Integrates Ghidra, Frida, x64dbg, and Rizin with 100+ MCP tools and runnable security knowledge base articles.
+    **AI reverse-engineering agent platform and MCP server** (MIT). 1,200+ GitHub_Stars. Integrates Ghidra, Frida, x64dbg, and Rizin with 100+ MCP tools and runnable security knowledge base articles.
 
 19. **[Veles](https://github.com/codilime/veles)** [![Stars](https://img.shields.io/github/stars/codilime/veles?style=social&color=white)](https://github.com/codilime/veles/stargazers)  
-    **Open-source binary data visualization tool** (Apache-2.0). 1,200+ GitHub stars. Visualizes file entropy, structure, and statistical patterns to detect encryption, compression, and obfuscation.
+    **Open-source binary data visualization tool** (Apache-2.0). 1,200+ GitHub_Stars. Visualizes file entropy, structure, and statistical patterns to detect encryption, compression, and obfuscation.
 
 20. **[OGhidra](https://github.com/LLNL/OGhidra)** [![Stars](https://img.shields.io/github/stars/LLNL/OGhidra?style=social&color=white)](https://github.com/LLNL/OGhidra/stargazers)  
-    **AI-driven binary analysis framework from Lawrence Livermore National Laboratory** (BSD-3-Clause). 450+ GitHub stars. Uses locally hosted agentic AI for automated malware triage and RAG-powered semantic search across decompiled functions.
+    **AI-driven binary analysis framework from Lawrence Livermore National Laboratory** (BSD-3-Clause). 450+ GitHub_Stars. Uses locally hosted agentic AI for automated malware triage and RAG-powered semantic search across decompiled functions.
 
 ---
 
@@ -193,3 +193,12 @@ Thank you for being part of this open and collaborative community! 🙌
 <div align="center">
   <b>Crafted with ❤️ for security researchers, reverse engineers, and builders of transparent AI binary analysis systems.</b>
 </div>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-AI-Reverse-Engineering&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-AI-Reverse-Engineering_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-AI-Reverse-Engineering_growth.svg">
+  </picture>
+</a>
