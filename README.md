@@ -30,47 +30,25 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global software reverse engineering and binary analysis tooling market is estimated at approximately **$400M–$450M**, with the broader binary static analysis and firmware security sector projected to exceed **$4B** by the early 2030s. The market is **moderately concentrated** at the top commercial tier—dominated historically by Hex-Rays (IDA Pro) alongside rising contenders like Vector 35 (Binary Ninja)—while remaining fragmented across niche domain-specific decompilers and highly contested by major open-source suites like NSA's Ghidra.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[IDA Pro](https://hex-rays.com/ida-pro/)**  
-
-  Industry-standard disassembler and debugger with the Hex-Rays decompiler. The most mature and feature-complete commercial reverse engineering platform, with extensive plugin ecosystem and scripting support.
-
-
-
-- **[Hex-Rays](https://hex-rays.com/)**  
-
-  The decompiler engine powering IDA Pro. Converts assembly to high-level pseudocode across multiple architectures. **The reference implementation for commercial decompilation.**
-
-
-
-- **[Binary Ninja](https://binary.ninja/)**  
-
-  Modern reverse engineering platform with a clean API, multi-architecture support, and collaborative features. **The most developer-friendly commercial RE tool.**
-
-
-
-- **[JEB Decompiler](https://www.pnfsoftware.com/)**  
-
-  Commercial decompiler for Android, ARM, and other platforms. **The standard for Android APK analysis.**
-
-
-
-- **[Hopper](https://www.hopperapp.com/)**  
-
-  macOS/Linux disassembler and decompiler with a native interface. **The most polished macOS-native RE tool.**
+| Product | Company / Developer | Company Size (Revenue / Valuation) | Pricing | Free Tier / Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **[IDA Pro](https://hex-rays.com/ida-pro/)** | Hex-Rays (Smartfin consortium) | ~$22M+ (€20M+) annual revenue; private PE-backed valuation | Starting at $1,099/yr (IDA Pro Essential, cloud decompilers) | No free trial of Pro; offers **IDA Free** limited to x86/x64 binaries with cloud-only decompilation, local debugging, non-commercial use | Industry-standard disassembler and debugger with the Hex-Rays decompiler; mature commercial platform with extensive plugin ecosystem. |
+| **[Hex-Rays](https://hex-rays.com/)** | Hex-Rays (Smartfin consortium) | ~$22M+ (€20M+) annual revenue; private PE-backed valuation | Starting at $1,099/yr (bundled via IDA Pro subscriptions) | No free trial of standalone decompiler; accessible via **IDA Free** (x86/x64 cloud decompiler only, non-commercial use) | The decompiler engine powering IDA Pro, converting assembly to high-level pseudocode across multiple architectures. |
+| **[Binary Ninja](https://binary.ninja/)** | Vector 35 | ~$3M–$5M estimated revenue ($800K funding backed by In-Q-Tel) | Starting at $199 (Non-Commercial perpetual) / $1,799 (Commercial Named) | **Binary Ninja Free**: Desktop app limited to x86, x86_64, ARMv7, ARMv8 architectures, no Python/C++ API or plugins, non-commercial use; Cloud version requires public binary uploads | Modern reverse engineering platform with clean API, intermediate languages (BNIL), and LLM/agent integration. |
+| **[JEB Decompiler](https://www.pnfsoftware.com/)** | PNF Software | ~$1M–$3M estimated revenue (Bootstrapped, 3–10 employees) | Starting at $140/mo or $1,200/yr (JEB Android) / $2,000/yr (JEB Pro) | **JEB Community Edition (JEB CE)**: Free for non-commercial use, limited to x86/x64 desktop binaries (no Android Dalvik decompiler); **JEB Demo**: Free trial with no project save/load, clipboard disabled, time-limited sessions, partial decompilation | Commercial decompiler and reverse engineering suite specializing in Android APK/Dalvik bytecode and multi-architecture targets. |
+| **[Hopper](https://www.hopperapp.com/)** | Cryptic Apps | ~$300K–$700K estimated revenue (Indie micro-ISV, 1 developer) | Starting at $99 (Personal perpetual license with 1 year of updates) | **Free Demo**: Session time-limited to 30 minutes, saving and exporting disabled, debugger disabled | macOS/Linux/Windows disassembler and decompiler with native UI, specialized in Mach-O, Swift, and Objective-C binary analysis. |
 
 
 
